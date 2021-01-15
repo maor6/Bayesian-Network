@@ -1,2 +1,2 @@
 # Bayesian-Network
-# Bayesian-Network Assignment in AI course.
+Assignment in AI course.
